@@ -86,7 +86,7 @@ DATABASES = {
         'NAME': 'booking_app29',
         'USER': 'postgres',
         'PASSWORD': 'topor231',
-        'HOST': 'localhost',
+        'HOST': 'db',
         'PORT': '5432',
     }
 }
